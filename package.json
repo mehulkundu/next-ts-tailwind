@@ -1,5 +1,5 @@
 {
-  "name": "finansta",
+  "name": "next-ts-tailwind",
   "private": true,
   "scripts": {
     "dev": "next dev",
